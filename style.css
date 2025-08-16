@@ -1,0 +1,65 @@
+p {
+ color: black;
+ font-weight: bold;
+ font-family: cursive;
+ font-size: 20px;
+}
+
+body {
+ background-color: lightBlue;
+ color: black;
+}
+
+h1 {
+ text-align: center;
+ font-family: Poppins;
+ border-radius: 16px;
+ background-color: cyan;
+ border: solid;
+}
+
+button {
+ background-color: pink;
+}
+
+img {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ border-radius: 12px;
+}
+
+button {
+ display: block;
+ margin: 10px auto;
+ padding: 8px 10px;
+ cursor: pointer;
+ border-radius: 6px;
+ width: 60%;
+}
+
+.instagram {
+  background: linear-gradient(45deg, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5);
+  color: white;
+  width: 200px;
+  padding: 10px;
+  margin: 10px auto;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  display: block;
+  font-weight: bold;
+}
+
+.tiktok {
+  background: linear-gradient(45deg, cyan, black, red);
+  color: white;
+  width: 200px;
+  padding: 10px;
+  margin: 10px auto;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  display: block;
+  font-weight: bold;
+}
