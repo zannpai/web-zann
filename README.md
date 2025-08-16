@@ -1,5 +1,4 @@
 # web-zann
-<!DOCTYPE html>
  <html>
   <head>
   <title>first my webpage</title>
