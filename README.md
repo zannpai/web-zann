@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="style.css">
   </head>
   <body>       
-   <img src="https://static.wikia.nocookie.net/xian-ni/images/7/79/WANGLIN.png/revision/latest?cb=20250302111537"
+   <img src="WANGLIN.png" alt="Wang Lin"
 width="330"
 height="170">
      <h1>Zann Kagenou</h1>
