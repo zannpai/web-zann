@@ -15,6 +15,6 @@ height="170">
        <p>I am a student at the Teladan Medan Vocational School, I am   majoring in Computer Network Engineering (TKJ), my dream is to become an engineering or programmer and make my parents proud.</p>
       <h3>below is my social media account👇</h3> 
        <button><a href="https://www.instagram.com/fauzanmutqnn?igsh=MWFpb2JzOGh6cGdvcQ==" class="instagram" target="_blank">instagram.fauzanmutqnn</a></button>
-       <button><a class:"tiktok" href="https://www.tiktok.com/@fanzzstorejb?_t=ZS-8ytMj6OIl3i&_r=1" class="tiktok" target="_blank">tiktok.fanzzstorejb</a></button>
+       <button><a href="https://www.tiktok.com/@fanzzstorejb?_t=ZS-8ytMj6OIl3i&_r=1" class="tiktok" target="_blank">tiktok.fanzzstorejb</a></button>
   </body>
  </html>
