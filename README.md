@@ -1,2 +1,20 @@
 # web-zann
 <!DOCTYPE html>
+ <html>
+  <head>
+  <title>first my webpage</title>
+  <link rel="stylesheet" href="style.css">
+  </head>
+  <body>       
+   <img src="https://static.wikia.nocookie.net/xian-ni/images/7/79/WANGLIN.png/revision/latest?cb=20250302111537"
+width="330"
+height="170">
+     <h1>Zann Kagenou</h1>
+      <h3>Aspiring Engineering and programmer💻</h3>
+       <p><h4>Welcome To My Webpage</h4></p>
+       <p>I am a student at the Teladan Medan Vocational School, I am   majoring in Computer Network Engineering (TKJ), my dream is to become an engineering or programmer and make my parents proud.</p>
+      <h3>below is my social media account👇</h3> 
+       <button><a href="https://www.instagram.com/fauzanmutqnn?igsh=MWFpb2JzOGh6cGdvcQ==" class="instagram" target="_blank">instagram.fauzanmutqnn</a></button>
+       <button><a class:"tiktok" href="https://www.tiktok.com/@fanzzstorejb?_t=ZS-8ytMj6OIl3i&_r=1" class="tiktok" target="_blank">tiktok.fanzzstorejb</a></button>
+  </body>
+ </html>
